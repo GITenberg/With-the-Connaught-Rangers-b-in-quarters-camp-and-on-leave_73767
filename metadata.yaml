@@ -1,0 +1,28 @@
+_repo: With-the-Connaught-Rangers-b-in-quarters-camp-and-on-leave_73767
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Maxwell, Edward
+    gutenberg_agent_id: '57213'
+    url: http://www.gutenberg.org/2009/agents/57213
+description: ''
+gutenberg_issued: '2024-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73767'
+language: en
+pgterms:marc904: https://archive.org/details/withconnaughtran00maxwrich
+pgterms:marc905: 20200428033133maxwell
+pgterms:marc906: '1883'
+pgterms:marc907: GB
+production_note: Brian Coe, Karin Spence and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by University of California libraries)
+publication_note: '  $aLondon :$bHurst & Blackett, $c1883.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'With the Connaught Rangers : $b in quarters, camp, and on leave'
+url: http://www.gutenberg.org/ebooks/73767
