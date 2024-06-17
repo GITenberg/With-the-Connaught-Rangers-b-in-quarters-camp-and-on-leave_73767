@@ -1,11 +1,16 @@
 _repo: With-the-Connaught-Rangers-b-in-quarters-camp-and-on-leave_73767
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73767-h/images/cover.jpg
 creator:
   author:
     agent_name: Maxwell, Edward
     gutenberg_agent_id: '57213'
     url: http://www.gutenberg.org/2009/agents/57213
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73767#With-the-Connaught-Rangers-b-in-quarters-camp-and-on-leave
 gutenberg_issued: '2024-06-04'
 gutenberg_type: Text
 identifiers:
